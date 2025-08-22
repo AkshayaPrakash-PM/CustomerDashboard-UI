@@ -1,0 +1,29 @@
+Product,SalesSegment,Tenant ID,ICM Feedback Description,ICM Status (In SLA/Out of SLA),OCV Feedback Text
+Exchange Admin Center,S500,12345678-1234-5678-9012-123456789012,Performance issues with large mailboxes causing slow response times,Out of SLA,The new admin interface is much more intuitive and user-friendly
+Exchange Admin Center,S500,87654321-4321-8765-2109-876543210987,Authentication failures occurring intermittently for admin users,In SLA,Great improvement in security features and audit capabilities
+Exchange Admin Center,S500,11111111-2222-3333-4444-555555555555,Database synchronization errors causing data inconsistencies,Out of SLA,Love the new dashboard layout and improved reporting features
+Exchange Admin Center,Major,22222222-3333-4444-5555-666666666666,Search functionality not working properly in message trace,In SLA,
+Exchange Admin Center,Major,33333333-4444-5555-6666-777777777777,,In SLA,The API integration works seamlessly with our existing tools
+Exchange Admin Center,SMB,44444444-5555-6666-7777-888888888888,Cannot configure mail flow rules correctly through interface,Out of SLA,
+Exchange Admin Center,SMB,55555555-6666-7777-8888-999999999999,,In SLA,Simple setup process made migration much easier than expected
+Copilot Extensibility,S500,66666666-7777-8888-9999-000000000000,Extension deployment failing due to permission conflicts,Out of SLA,Excellent documentation and sample code examples provided
+Copilot Extensibility,S500,77777777-8888-9999-0000-111111111111,API rate limiting causing timeout errors in large organizations,In SLA,The extension marketplace has great variety and quality
+Copilot Extensibility,S500,88888888-9999-0000-1111-222222222222,Debugging tools insufficient for complex extension development,Out of SLA,
+Copilot Extensibility,Major,99999999-0000-1111-2222-333333333333,SSL certificate validation errors during extension registration,In SLA,Developer portal is comprehensive and well-organized
+Copilot Extensibility,Major,00000000-1111-2222-3333-444444444444,,In SLA,Extension versioning system works perfectly for our workflow
+Copilot Extensibility,SMB,10101010-2020-3030-4040-505050505050,Manifest validation failing with unclear error messages,Out of SLA,
+Copilot Extensibility,SMB,20202020-3030-4040-5050-606060606060,,In SLA,Quick deployment and excellent performance monitoring
+Exchange Server,S500,30303030-4040-5050-6060-707070707070,Hybrid configuration wizard producing incorrect connector settings,Out of SLA,On-premises integration is seamless and well-documented
+Exchange Server,S500,40404040-5050-6060-7070-808080808080,Migration tool hanging during large mailbox transfers,In SLA,
+Exchange Server,S500,50505050-6060-7070-8080-909090909090,Certificate management interface not displaying renewal dates,Out of SLA,PowerShell cmdlets are powerful and comprehensive
+Exchange Server,Major,60606060-7070-8080-9090-101010101010,Transport rules not applying correctly to external recipients,In SLA,Great stability and performance improvements in this version
+Exchange Server,Major,70707070-8080-9090-1010-111111111111,,In SLA,Management console is intuitive and responsive
+Exchange Server,SMB,80808080-9090-1010-1111-121212121212,Backup integration failing with third-party solutions,Out of SLA,
+Exchange Server,SMB,90909090-1010-1111-1212-131313131313,,In SLA,Setup wizard made installation much simpler than previous versions
+Exchange Admin Center,S500,14141414-1515-1616-1717-181818181818,Calendar sharing permissions not syncing across domains,In SLA,Mobile management features are comprehensive and reliable
+Exchange Admin Center,Major,15151515-1616-1717-1818-191919191919,Retention policy settings causing unexpected message deletions,Out of SLA,
+Copilot Extensibility,S500,16161616-1717-1818-1919-202020202020,OAuth token refresh mechanism failing intermittently,In SLA,Testing framework makes extension validation straightforward
+Exchange Server,Major,17171717-1818-1919-2020-212121212121,High availability group configuration wizard producing errors,Out of SLA,
+Exchange Admin Center,SMB,18181818-1919-2020-2121-222222222222,,In SLA,User interface is clean and well-organized
+Copilot Extensibility,Major,19191919-2020-2121-2222-232323232323,Webhook endpoint validation timing out during registration,In SLA,
+Exchange Server,S500,20202020-2121-2222-2323-242424242424,Database maintenance plan scheduler not respecting time zones,Out of SLA,Backup and recovery features work flawlessly
